@@ -26,7 +26,7 @@ I’m always open to collaborations, opportunities, and conversations around sec
 ## 🚧 Latest Projects
 
 ### 🥫 GrubMate – Food Donation & Security App
-A mobile app that connects donors and recipients to reduce food waste. Built with Flutter, Firebase, Supabase, and Google Maps API.  
+A mobile app that connects donors and recipients to reduce food waste. Built with Flutter, Firebase, and Supabase 
 👉 [View Project](#) *(Add your live link or repo)*
 
 ---
