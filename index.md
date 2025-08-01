@@ -6,16 +6,13 @@ layout: single
 author_profile: true
 ---
 
-# 👋 Hi, I’m Cindy Karanja  
 ### 🛠️ Software Engineer | 🔐 Cybersecurity Enthusiast | 🌍 Problem-Solver
 
 Welcome to my portfolio!
 
-I’m a developer passionate about using technology to solve real-world problems—especially in health, food security, and community impact. With experience in mobile and web development (mainly using **Flutter**, **Firebase**, and modern web tools), I build apps that are not only functional but secure and user-focused.
+I’m a software engineer with a strong interest in building secure, scalable applications that make a difference.My core skills are in mobile and web development using Flutter and Firebase, WordPress, with an emphasis on usability, performance, and security.
 
-Currently, I’m deepening my skills in **cybersecurity**, exploring areas like **ethical hacking**, **secure software development**, and **data privacy**.  
-My mission? To build tech that empowers users while keeping their data safe.
-
+Currently, I’m expanding my expertise in cybersecurity, with a focus on ethical hacking, secure coding practices, and data protection with the goal of building tech that’s not only useful, but safe and resilient.
 ---
 
 📁 **Explore my projects**,  
@@ -34,11 +31,6 @@ A mobile app that connects donors and recipients to reduce food waste. Built wit
 
 ---
 
-### 📊 Donation Reports Dashboard
-A dynamic reporting dashboard with data filters, charts, and export tools (CSV, PDF, Excel) for visualizing food donation trends.  
-👉 [View Project](#)
-
----
 
 ### 🔐 WebGoat Labs & Cybersecurity Challenges
 Hands-on cybersecurity exercises and labs exploring common vulnerabilities and secure coding practices.  
@@ -46,4 +38,3 @@ Hands-on cybersecurity exercises and labs exploring common vulnerabilities and s
 
 ---
 
-Let me know if you’d like to include badges, GitHub repo stats, or embed project screenshots!
